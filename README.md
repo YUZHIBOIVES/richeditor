@@ -15,3 +15,6 @@ RichEditor for Android Support,Support the following functions:
 (6)Insert/delete image
 
 (7)Heading 1
+
+Preview :
+![Image text](https://raw.github.com/YUZHIBOIVES/repositpry/master/richeditor/pre_img_folder/preview.jpg)
