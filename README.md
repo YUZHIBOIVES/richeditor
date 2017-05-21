@@ -1,6 +1,6 @@
 # richeditor
 
-RichEditor for Android Support,Support the following functions:
+RichEditor for Android,supports the following functions:
 
 (1)Font size
 
