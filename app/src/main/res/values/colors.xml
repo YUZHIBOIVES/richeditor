@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 以下颜色和白色组成在线字体页面背景-->
+    <color name="font_online_bg_1">#23b38f</color>
+    <color name="font_online_bg_2">#2ec295</color>
+    <color name="font_online_bg_3">#d6d6d6</color>
+
+    <color name="promotion_bg_color">#E26F41</color>
+    <color name="coupon_bg_red_color">#ed4141</color>
+    <color name="coupon_bg_grey_color">#a0a9b0</color>
+    <color name="coupon_item_txt_80_transparency">#CC23283b</color>
+    <color name="coupon_item_txt_70_transparency">#B223283b</color>
+    <color name="coupon_item_txt_color">#23283b</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="unclickable_color_bg">#4c000000</color>
+    <color name="darkgray">#a9a9a9</color>
+    <color name="white_bg">#FAFAFA</color>
+</resources>
