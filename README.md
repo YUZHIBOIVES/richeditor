@@ -17,4 +17,4 @@ RichEditor for Android Support,Support the following functions:
 (7)Heading 1
 
 Preview :
-![Image](https://github.com/YUZHIBOIVES/richeditor/pre_img_folder/preview.jpg )
+![Image](https://github.com/YUZHIBOIVES/richeditor/raw/master/pre_img_folder/preview.jpg )
